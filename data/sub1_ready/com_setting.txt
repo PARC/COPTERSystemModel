@@ -1,0 +1,21 @@
+#SC_IP :  Simulation controller IP address
+127.0.0.1
+
+#SC_Port : The port number of the simulation controller
+8001
+
+#Local_Port : The port number of the simulation controller
+8999
+
+#Cont_Veh_Class : The class to which the controlled vehicles will be assigned
+5
+
+#sync_interval : Sync interval in deci-seconds 
+10
+
+#Reporting_interval : the period (secs) after which INTEGRATION send vehicle information to the SC
+10
+
+
+
+138.68.63.64

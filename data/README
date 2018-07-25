@@ -1,0 +1,7 @@
+This directory contains the data to run the INTEGRATION models as part of the TRANSNET program.
+
+sub[1-5]_ready  contain the 5 subnetwork configuration files.
+GlobalOD_OP contains entries for each vehicle that travels on the subnetworks during peak periods
+submap contains shape files that descrbing each of the zones in the subnetworks
+LA_TAZ contains the zones across the entire network.
+

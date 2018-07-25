@@ -1,0 +1,40 @@
+LA Subnetwork 5 
+24000.003    300    300      3      0 
+2	2	2	2	2
+900  	900  	900  	900  	900
+900  	900  	900  	900  	900
+1	1	1	1	1
+0	0	0	0	0
+0	0	0	0	0
+1	1	1	1	1
+0.05    0.05	0.05	0.05	0.05 
+PeakIN_HOV/
+OUT/
+LASUB5F1.DAT
+LASUB5F2.DAT
+LASUB5F3.DAT
+LASUB5F4allam.dat
+LASUB5F5.DAT
+none
+none
+none
+none
+ONET10.out
+ONET11.out
+ONET12.out
+none
+none
+ONET15.out
+none
+none
+none
+none
+LASUB5F20.DAT
+LASUB5F21.DAT
+none
+none
+none
+none
+none
+none
+summary.out

@@ -1,0 +1,7 @@
+To compile a version for this subnetwork use the parameters in intgratLAS1.inc file.
+The compilation command is:-
+
+                    ./Build.sh intgratLAS1
+
+This will create exe file named 'intgratLAS1',  copy it to the this floder and run it using the command line.
+
